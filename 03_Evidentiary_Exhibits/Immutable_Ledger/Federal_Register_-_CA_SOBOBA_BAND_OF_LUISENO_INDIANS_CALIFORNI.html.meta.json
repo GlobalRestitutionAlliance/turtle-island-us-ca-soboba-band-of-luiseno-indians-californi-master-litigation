@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=CA+SOBOBA+BAND+OF+LUISENO+INDIANS+CALIFORNI",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=CA+SOBOBA+BAND+OF+LUISENO+INDIANS+CALIFORNI",
+  "title": "Federal Register - CA SOBOBA BAND OF LUISENO INDIANS CALIFORNI",
+  "fetched_at": "2026-11-23T18:01:58.124185Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 101674,
+  "sha256": "93f4404a5c33c0a3cdaaf658f4054103dd65ac8490b36002bc4240584ef15d5e",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
